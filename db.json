@@ -1,0 +1,10 @@
+{
+  "guides": [
+    { "id": 1, "benefited": "Carlos", "professional": "John", "type": "SPSADT", "description": "Commodo anim ex eu duis cupidatat esse tempor ipsum Lorem aliquip qui." },
+    { "id": 2, "benefited": "Jhonatan", "professional": "Micha", "type": "CONSUL", "description": "Irure esse labore aliquip non fugiat anim aliquip ex veniam." },
+    { "id": 3, "benefited": "Sica", "professional": "Jack", "type": "CONSUL", "description": "Exercitation id deserunt ipsum non nisi adipisicing exercitation sit." },
+    { "id": 4, "benefited": "Botuca", "professional": "Jõao", "type": "SPSADT", "description": "Incididunt consequat eu et qui." },
+    { "id": 5, "benefited": "Gabriel", "professional": "Jack", "type": "INTERN", "description": "Deserunt laboris aliqua veniam laborum velit ad quis proident occaecat sint magna." },
+    { "id": 6, "benefited": "Anderson", "professional": "Micha", "type": "INTERN", "description": "Officia et et amet mollit Lorem irure elit sunt laborum nostrud ut voluptate nostrud." }
+  ]
+}
